@@ -1,0 +1,2 @@
+# edusrc_POC
+在edusrc平台上对于一些通用漏洞检测时编写的简单python POC脚本
